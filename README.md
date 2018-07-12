@@ -15,6 +15,9 @@ The syntax looks like this;
 *  Japanese Yuan = "Yen"
 *  Ghana Cedi = "Cedi"
 
+## Download:
+[<p>Follow this link</p>](https://excelntw.herokuapp.com/)
+
 ## Errors
 In case you encounter errors while using the Add-in visit [this link](https://github.com/olamilekan000/Curency) to raise an issue by clicking on the _issues tab_.
 
