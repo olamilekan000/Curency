@@ -1,5 +1,5 @@
 # Curency
-Currency is an Excel Add-in which helps in inserting a currency symbols to a specified monetary value. The Add-in only suppports 6 countries currencies at the moment.
+Currency is an Excel Add-in which helps in inserting a currency symbol to a specified monetary value or figure. The Add-in only suppports 6 countries currencies at the moment.
 
 ## Syntax
 The Curency takes just two arguments. First is the number which you're trying to add a currency symbol to, and the second, is the currency symbol code which must be a string.
