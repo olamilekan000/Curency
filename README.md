@@ -16,12 +16,12 @@ The syntax looks like this;
 *  Ghana Cedi = "Cedi"
 
 ## Examples
-> * curency(10000, "Ngn") = ₦ 10, 000
-> * curency(10000, "Pounds") = £ 10, 000
-> * curency(10000, "USD") = $ 10, 000
-> * curency(10000, "Euro") = € 10, 000
-> * curency(10000, "Yen") = ¥ 10, 000
-> * curency(10000, "Cedi") = ₵ 10, 000
+> * curency(10000, "Ngn") = ₦ 10,000
+> * curency(10000, "Pounds") = £ 10,000
+> * curency(10000, "USD") = $ 10,000
+> * curency(10000, "Euro") = € 10,000
+> * curency(10000, "Yen") = ¥ 10,000
+> * curency(10000, "Cedi") = ₵ 10,000
 
 ## Download:
 [<p>Follow this link</p>](https://excelntw.herokuapp.com/)
